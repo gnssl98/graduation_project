@@ -1,6 +1,6 @@
 # Graduation Project
 
-PART : AI(OCR 모델 구현, 추천 알고리즘 구현
+PART : AI(OCR 모델 구현, 추천 알고리즘 구현)
 
 
 
